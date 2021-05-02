@@ -1,0 +1,14 @@
+ul{
+    list-style-position: inside;
+}
+ol{
+    list-style-position: inside;
+}
+p{
+    color: darkred;
+    font-size: medium;
+    font-style: italic;}
+p1{
+    color: black;
+    font-family: monospace;
+}    
